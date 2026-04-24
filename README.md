@@ -1,0 +1,2 @@
+# comand_battle_game
+Pythonで作った簡単なコマンドバトルのゲームです。
